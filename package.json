@@ -3,6 +3,7 @@
   "displayName": "\"Business Time\"",
   "description": "A light color theme for when it's time to get down to business",
   "version": "0.9.0",
+  "repository": "https://github.com/mike-healy/theme-business-time-light",
   "engines": {
     "vscode": "^1.89.0"
   },
