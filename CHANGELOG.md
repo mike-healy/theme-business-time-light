@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.0.0] 2024-08-03
+- eh, bring back a little more contrast to search word highlighting
+
 ## [0.9.4] 2024-08-03
 - Improved color of search highting that was too strong, make new git changes in tab more readable
 
