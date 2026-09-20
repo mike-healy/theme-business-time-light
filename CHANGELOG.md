@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.1.0] 2026-09-21
+- Better support for the VS Code "modern UI" design which uses color symbols differently and extends the title bar color between panels.
+Fixes some icons and section headings being nearly invisible in "Modern UI".
+
 ## [1.0.0] 2024-08-03
 - eh, bring back a little more contrast to search word highlighting
 

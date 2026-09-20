@@ -1,8 +1,8 @@
 {
   "name": "business-time",
   "displayName": "Business Time",
-  "description": "A light color theme for when it's time to get down to business",
-  "version": "1.0.0",
+  "description": "A light color, medium-high contrast theme for when it's time to get down to business",
+  "version": "1.1.0",
   "repository": "https://github.com/mike-healy/theme-business-time-light",
   "icon": "business-light-icon.png",
   "galleryBanner": {
