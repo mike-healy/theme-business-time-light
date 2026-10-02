@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.1.2] 2026-10-02
+- Fix editor group tab background for latest VS Code
+
 ## [1.1.0] 2026-09-21
 - Better support for the VS Code "modern UI" design which uses color symbols differently and extends the title bar color between panels.
 Fixes some icons and section headings being nearly invisible in "Modern UI".

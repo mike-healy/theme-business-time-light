@@ -4,7 +4,7 @@ A light, reasonably high contrast theme for when you want to see what you're doi
 
 Also good for morning coding to set your circadian rhythm 😎
 
-The 1.1.0 update improves support for VS Code's "modern UI" design.
+The `^1.1.0` update improves support for VS Code's "modern UI" design.
 
 You can also revert this in your `settings.json` with `"workbench.experimental.modernUI": false`
 
